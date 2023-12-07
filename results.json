@@ -1,0 +1,21 @@
+{
+  "excluded": [
+    {
+      "describe": "build/1",
+      "file": "/Users/brunoribeiro/Studies/Rocketseat/parse_csv_challenge/test/gen_report_test.exs",
+      "line": 16
+    }
+  ],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "build/1",
+      "file": "/Users/brunoribeiro/Studies/Rocketseat/parse_csv_challenge/test/gen_report_test.exs",
+      "line": 10,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When passing file name return a report"
+    }
+  ],
+  "skiped": []
+}
